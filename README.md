@@ -7,7 +7,8 @@ Controle financeiro com o **Reis**, um agente que entende você do seu jeito:
 - Painel com peso de cada gasto e onde corrigir
 - Contas fixas, metas individuais e do casal, caixinhas com rendimento
 - Modo Dia de Pagamento 🪙
+- Cartões de crédito: faturas, parcelas, limite e simulador
 
 **Usar:** abra https://elrafs.github.io/mereis/ no Chrome → Ajustes → Instalar ME.REI$.
 
-Versão Alpha 00.07 · por **@el.rafs**, com colaboração do Claude, IA da Anthropic.
+Versão Alpha 00.08 · por **@el.rafs**, com colaboração do Claude, IA da Anthropic.
