@@ -1,5 +1,5 @@
 /* ME.REI$ — service worker: faz o app abrir offline */
-const CACHE = 'mereis-alpha-00-10';
+const CACHE = 'mereis-alpha-00-11';
 const SHELL = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {

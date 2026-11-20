@@ -12,4 +12,4 @@ Controle financeiro com o **Reis**, um agente que entende você do seu jeito:
 
 **Usar:** abra https://elrafs.github.io/mereis/ no Chrome → Ajustes → Instalar ME.REI$.
 
-Versão Alpha 00.10 · por **@el.rafs**, com colaboração do Claude, IA da Anthropic.
+Versão Alpha 00.11 · por **@el.rafs**, com colaboração do Claude, IA da Anthropic.
